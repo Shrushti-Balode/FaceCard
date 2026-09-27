@@ -1,0 +1,11 @@
+# Face Ride Connect — Backend Python Dependencies
+# Only packages actually imported by this project's source code.
+# Generated and verified for Python 3.10+
+
+Flask>=2.3.0
+flask-cors>=4.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+pyserial>=3.5
+python-dotenv>=1.0.0

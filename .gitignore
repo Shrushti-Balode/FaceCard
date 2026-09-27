@@ -1,0 +1,27 @@
+# Python / Flask
+backend/venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyd
+.env
+
+# Node / React
+node_modules/
+dist/
+.DS_Store
+
+# Data / Biometrics
+backend/faces/
+backend/data/users.json
+backend/data/transactions.json
+backend/data/journeys.json
+
+# Legacy / Private
+backend/users.json
+data/
+
+# Exclude large wheels if any
+*.whl
+
+backend/user_data.json
